@@ -1,0 +1,9 @@
+*.aux
+*.log
+*.toc
+*.out
+*.lof
+*.lot
+*.pdf
+.chapters.generated.tex
+img/*.tex
