@@ -17,14 +17,14 @@ concurrency:
 
 jobs:
   build:
-    name: Compile LaTeX
+    name: Compile book
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout
         uses: actions/checkout@v6
 
-      - name: Install TeX Live
+      - name: Install build dependencies
         run: |
           sudo apt-get update
           sudo apt-get install -y \
@@ -32,36 +32,49 @@ jobs:
             texlive-latex-recommended \
             texlive-latex-extra \
             texlive-fonts-recommended \
-            texlive-lang-french
+            texlive-lang-french \
+            pandoc
 
-      - name: Compile PDF
-        run: make
+      - name: Compile PDF and EPUB
+        run: make all
 
-      - name: Check PDF
+      - name: Check generated files
         run: |
           test -f kael.pdf
-          ls -lh kael.pdf
+          test -f kael.epub
+          ls -lh kael.pdf kael.epub
 
       - name: Prepare GitHub Pages
         run: |
           rm -rf _site
           mkdir -p _site
+
           cp kael.pdf _site/kael.pdf
+          cp kael.epub _site/kael.epub
 
           cat > _site/index.html <<EOF
           <!DOCTYPE html>
           <html lang="fr">
           <head>
             <meta charset="utf-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
             <title>Kael — La voie de l'Orc</title>
           </head>
           <body>
             <h1>Kael — La voie de l'Orc</h1>
             <p>Lore et histoire du personnage, de sa naissance au début de ses aventures.</p>
 
-            <a href="kael.pdf?v=${GITHUB_SHA}">
-              Télécharger le lore au format PDF
-            </a>
+            <p>
+              <a href="kael.pdf?v=${GITHUB_SHA}">
+                Télécharger le lore au format PDF
+              </a>
+            </p>
+
+            <p>
+              <a href="kael.epub?v=${GITHUB_SHA}">
+                Télécharger le lore au format EPUB
+              </a>
+            </p>
           </body>
           </html>
           EOF
@@ -77,7 +90,6 @@ jobs:
   deploy:
     name: Publish GitHub Pages
     needs: build
-
     runs-on: ubuntu-latest
 
     environment:

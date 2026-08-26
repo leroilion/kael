@@ -7,3 +7,4 @@
 *.pdf
 .chapters.generated.tex
 img/*.tex
+*.epub
