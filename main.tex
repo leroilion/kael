@@ -1,14 +1,7 @@
 \documentclass[11pt,a4paper,oneside]{book}
-
-% Toute la mise en page est centralisée ici.
 \input{config}
 
 \begin{document}
-
-% -----------------------------------------------------------------------------
-% Pages liminaires
-% -----------------------------------------------------------------------------
-
 \frontmatter
 
 \makekaeltitle
@@ -17,21 +10,9 @@
 
 \cleardoublepage
 
-% -----------------------------------------------------------------------------
-% Roman / histoire
-%
-% Les fichiers chapter/*.tex sont importés automatiquement par le Makefile,
-% dans l'ordre de leur nom :
-%
-%   0100_...
-%   0200_...
-%   0250_...
-%   0300_...
-%
-% Le numéro du fichier détermine uniquement l'ordre d'import.
-% La numérotation des chapitres est gérée automatiquement par LaTeX.
-% -----------------------------------------------------------------------------
-
+% Chaque fichier chapter/*.tex correspond a une session complete ou a un
+% evenement suffisamment important pour meriter son propre chapitre.
+% Le prefixe numerique ne sert qu'a fixer l'ordre de lecture.
 \mainmatter
 
 \input{.chapters.generated.tex}
