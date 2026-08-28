@@ -218,7 +218,229 @@ d'être intégrée.
 Lorsque les mots exacts d'une conversation ne sont pas connus, mieux vaut une
 formulation indirecte crédible qu'un long échange présenté comme canonique.
 
-## 10. Les commandes du livre
+
+### Questions dans les dialogues
+
+Dans les dialogues, privilégier une formulation interrogative soignée et
+naturelle. Lorsqu'une question comporte un mot interrogatif et que l'inversion
+du sujet est naturelle, préférer l'inversion du verbe et du sujet.
+
+Préférer par exemple :
+
+- « Comment savais-tu que je te suivais ? »
+- « Pourquoi fais-tu cela ? »
+- « Où vas-tu ? »
+
+plutôt que :
+
+- « Comment tu savais que je te suivais ? »
+- « Pourquoi tu fais cela ? »
+- « Où tu vas ? »
+
+Cette règle ne doit toutefois pas rendre les dialogues artificiellement
+soutenus. Les tournures courantes et naturelles comme « Qu'est-ce que tu
+fais ? » peuvent être conservées lorsqu'elles correspondent mieux à la voix du
+personnage. L'objectif est d'éviter par défaut les interrogations relâchées
+sans inversion, tout en conservant des dialogues vivants et crédibles.
+
+
+## 10. Maintenir l'intérêt du lecteur
+
+Une scène ne doit pas seulement transmettre des informations ou raconter un
+événement. Elle doit donner au lecteur une raison de poursuivre.
+
+Lorsque cela est pertinent, une scène doit contenir au moins une forme de
+question narrative, explicite ou implicite :
+
+- que va faire le personnage ?
+- que va-t-il découvrir ?
+- va-t-il réussir ce qu'il tente ?
+- pourquoi quelque chose vient-il de se produire ?
+- quelles seront les conséquences de son choix ?
+- que cache un personnage ou une situation ?
+
+Toutes ces questions n'ont pas besoin d'être spectaculaires. Une conversation,
+un apprentissage ou une scène de vie quotidienne peut maintenir l'intérêt par
+une attente, une hésitation, un désaccord, une curiosité ou un enjeu personnel.
+
+Une réponse peut clore une question tout en en faisant naturellement naître une
+autre. Éviter cependant d'accumuler artificiellement les mystères ou les
+suspenses uniquement pour forcer le lecteur à continuer.
+
+### Donner un objectif aux personnages
+
+Dans une scène importante, les personnages doivent autant que possible agir
+parce qu'ils veulent quelque chose : obtenir une information, apprendre,
+convaincre quelqu'un, protéger une personne, éviter un danger, comprendre une
+situation, partir, rester, être accepté, etc.
+
+L'objectif peut être modeste. Il sert avant tout à donner une direction à la
+scène.
+
+Éviter les personnages qui se contentent de subir une succession d'événements
+lorsqu'une décision de leur part peut naturellement faire avancer l'histoire.
+
+### Privilégier la causalité
+
+Les événements doivent autant que possible découler les uns des autres.
+
+Préférer une logique de type :
+
+> Un événement arrive. Kael prend une décision à cause de cet événement. Cette
+> décision entraîne une conséquence, qui provoque à son tour une nouvelle
+> situation.
+
+à une simple succession :
+
+> Ceci arrive. Puis ceci arrive. Puis autre chose arrive.
+
+Les décisions des personnages, leurs erreurs, leurs qualités et leurs
+relations doivent pouvoir produire des conséquences. Cela donne au lecteur le
+sentiment que l'histoire avance parce que les personnages la vivent réellement,
+et non parce qu'une liste d'événements doit être racontée.
+
+## 11. Alterner tension et respiration
+
+Le rythme d'un chapitre ne dépend pas uniquement de la longueur des phrases et
+des paragraphes. Il dépend également de l'alternance entre les moments de
+tension et les moments plus calmes.
+
+Après une scène intense, laisser si nécessaire au personnage et au lecteur le
+temps d'en ressentir les conséquences. À l'inverse, une longue succession de
+scènes contemplatives ou explicatives doit être interrompue lorsqu'elle ne fait
+plus progresser le personnage, une relation, une question narrative ou
+l'histoire.
+
+Ne pas chercher à maintenir artificiellement une tension maximale en
+permanence. Sans moments calmes, les moments forts perdent eux-mêmes une partie
+de leur intensité.
+
+Les scènes de respiration ne sont toutefois pas des scènes inutiles : elles
+peuvent développer une relation, montrer une évolution, préparer un événement,
+faire découvrir le monde ou simplement permettre aux conséquences d'un moment
+important de se déposer.
+
+## 12. Montrer et raconter selon l'importance du moment
+
+Le principe « montrer plutôt que raconter » ne doit pas être appliqué
+mécaniquement.
+
+Pour les moments importants, privilégier lorsque cela apporte quelque chose :
+
+- les gestes ;
+- les réactions ;
+- les sensations ;
+- les décisions ;
+- les silences ;
+- les paroles ;
+- les détails concrets.
+
+Ils permettent au lecteur de ressentir ou de comprendre une émotion sans que le
+narrateur ait systématiquement besoin de la nommer.
+
+Pour les transitions, les informations secondaires ou les périodes qui ne
+méritent pas une scène complète, une narration directe et concise est
+préférable.
+
+Il est donc parfaitement acceptable d'écrire qu'un personnage est inquiet,
+fatigué ou en colère lorsque développer cette émotion davantage ralentirait
+inutilement le récit.
+
+Réserver les développements détaillés aux moments qui méritent réellement
+l'attention du lecteur.
+
+## 13. Ne pas expliquer le monde avant que le lecteur en ait besoin
+
+Le monde doit apparaître naturellement à travers ce que les personnages voient,
+savent, utilisent et rencontrent.
+
+Éviter les blocs d'explication destinés uniquement à présenter :
+
+- l'histoire d'un lieu ;
+- une organisation ;
+- une coutume ;
+- une religion ;
+- un peuple ;
+- un événement historique ;
+- le fonctionnement détaillé d'un élément du monde.
+
+Une information peut être mentionnée sans être immédiatement expliquée. Le
+lecteur n'a pas besoin de tout comprendre dès la première occurrence.
+
+Développer une information lorsqu'elle devient utile à la scène, au personnage
+ou à la compréhension de l'histoire.
+
+Cette retenue doit néanmoins rester compatible avec la clarté : le lecteur peut
+ignorer certains détails du monde, mais il doit disposer des informations
+nécessaires pour comprendre ce qui se passe et pourquoi cela compte.
+
+## 14. Faire parler les personnages entre eux, pas au lecteur
+
+Un dialogue doit d'abord correspondre à ce que les personnages ont réellement
+une raison de se dire.
+
+Éviter les répliques dont la fonction principale est d'expliquer au lecteur une
+information que les interlocuteurs connaissent déjà.
+
+Lorsque cela est naturel, préférer faire apparaître l'information par :
+
+- un désaccord ;
+- une réaction ;
+- une allusion ;
+- une question légitime ;
+- un souvenir évoqué parce que la situation le justifie ;
+- un sous-entendu.
+
+Les personnages n'ont pas toujours besoin d'exprimer exactement ce qu'ils
+pensent. Une hésitation, une réponse détournée, un silence ou un changement de
+sujet peuvent parfois révéler davantage qu'une explication directe.
+
+Le sous-texte ne doit toutefois pas rendre systématiquement les conversations
+obscures. La priorité reste un dialogue naturel et compréhensible.
+
+## 15. Récompenser l'attention du lecteur
+
+Les éléments auxquels le récit accorde de l'importance doivent, autant que
+possible, avoir une raison d'être.
+
+Une information, un objet, un apprentissage, une promesse, une relation ou un
+détail introduit précédemment peut revenir plus tard sous forme de :
+
+- conséquence ;
+- solution ;
+- difficulté ;
+- révélation ;
+- évolution du personnage ;
+- rappel émotionnel.
+
+Il n'est pas nécessaire que chaque détail serve à l'intrigue : certains existent
+simplement pour rendre le monde et les personnages vivants.
+
+En revanche, éviter de donner une importance particulière à de nombreux
+éléments qui seront ensuite totalement abandonnés.
+
+Les rappels doivent rester naturels. Ne pas expliquer au lecteur qu'un élément
+est important simplement parce qu'il est destiné à resservir plus tard.
+
+## 16. Test de fin de scène
+
+À la fin d'une scène importante, vérifier au moins les questions suivantes :
+
+1. Qu'est-ce qui a changé depuis le début de la scène ?
+2. Qu'est-ce que le personnage voulait ?
+3. Une décision ou une action a-t-elle produit une conséquence ?
+4. Le lecteur a-t-il appris, ressenti ou découvert quelque chose qui justifie la
+   scène ?
+5. Existe-t-il une raison naturelle de vouloir lire la suite ?
+
+Une scène n'a pas besoin de répondre positivement à toutes ces questions. Elles
+servent de test, pas de formule obligatoire.
+
+Si rien n'a changé, si aucune relation n'a évolué, si aucune information utile
+n'est apparue et si aucune attente n'a été créée ou satisfaite, vérifier si la
+scène est réellement nécessaire.
+
+## 17. Les commandes du livre
 
 Utiliser les commandes prévues par le template plutôt que recréer leur mise en
 page manuellement.
@@ -232,7 +454,7 @@ page manuellement.
 Plusieurs lignes vides consécutives ne créent pas davantage d'espace dans le
 PDF. Une vraie rupture narrative utilise `\scenebreak`.
 
-## 11. La mise en page est globale
+## 18. La mise en page est globale
 
 Les chapitres ne doivent pas corriger localement la typographie générale.
 
@@ -247,7 +469,7 @@ Ne pas modifier dans un chapitre :
 Ces éléments sont définis dans `config.tex`. Si un passage paraît trop dense ou
 trop haché, corriger d'abord le texte et son découpage en paragraphes.
 
-## 12. Fin du lore et début de la campagne
+## 19. Fin du lore et début de la campagne
 
 Le lore de Kael doit conduire jusqu'au point où commence son aventure jouée,
 sans absorber le récit de campagne lui-même.
